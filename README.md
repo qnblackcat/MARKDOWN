@@ -232,6 +232,8 @@ Cú pháp: `![mô tả](link)`
 Lưu ý: nếu bạn không thiết lập thời gian cho helper thì mặc định sẽ là 15 phút  
 
 Sau khi đã liên kết được với github ta sẽ đi qua một vài thao tác cơ bản để hoạt động trên github sau  
+
+Qn_ 
   
                                                            # THE END
  
